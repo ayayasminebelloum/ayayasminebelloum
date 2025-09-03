@@ -1,27 +1,43 @@
-<h1 align="center"> Welcome to my GitHub! 👋 </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayayasminebelloum&label=Visitors&style=for-the-badge&abbreviated=true" alt="Profile visitors" /> </p>
+<h1 align="center">Welcome to my GitHub!</h1>
+<h1 align="center">
+<pre>
+  ▄████████  ▄█       ███       ▄████████    ▄████████ 
+ ███    ███ ███       ███      ███    ███   ███    ███ 
+ ███    ███ ███       ███      ███    █▀    ███    ███ 
+ ███    ███ ███       ███     ▄███▄▄▄      ▄███▄▄▄▄██▀ 
+ ███    ███ ███       ███    ▀▀███▀▀▀     ▀▀███▀▀▀▀▀   
+ ███    ███ ███       ███      ███    █▄    ███    █▄  
+ ███    ███ ███▌    ▄ ███      ███    ███   ███    ███ 
+ ████████▀  █████▄▄██ █▀       ██████████   ██████████ 
+             ▀                                      
+</pre>
+</h1>
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 Computer Science & Artificial Intelligence student at **IE University** (2022–2026).  
-- 🤖 Hands-on experience in **Machine Learning, Deep Learning, NLP, Reinforcement Learning, and Computer Vision**.  
-- 💡 Passionate about building intelligent systems such as **AI-powered chatbots, recommendation engines, and computer vision applications**.  
-- 🚀 Interested in **Robotics, High-Performance Computing, Full-Stack Development, and Applied AI**.  
-- 🌍 Fluent in **English, French, Arabic**, and intermediate in **Spanish**.  
+## About Me
+- Computer Science & Artificial Intelligence student at **IE University** (2022–2026).  
+- Hands-on experience in **Machine Learning, Deep Learning, NLP, Reinforcement Learning, and Computer Vision**.  
+- Passionate about building intelligent systems such as **AI-powered chatbots, recommendation engines, and computer vision applications**.  
+- Interested in **Robotics, High-Performance Computing, Full-Stack Development, and Applied AI**.  
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 - **AI-Powered Product Recommendation System** – Designed hybrid recommender models (content-based, collaborative, popularity) on 14M+ user interactions, improving engagement and conversions.  
 - **ArtifAI Chatbot** – Built a GPT-2 based educational chatbot simulating conversations with 50 famous painters using FAISS + embeddings in a RAG pipeline.  
 - **AI-Driven Event Management Optimization** – Used ML and RL to optimize event recommendations, resource allocation, and audience engagement.  
 - **Banking App MVP** – Developed a cloud-native app with secure authentication, transaction management, and CI/CD pipelines.  
 - **Real-Time Gaze Tracking** – Computer vision system mapping user gaze into heatmaps for advertisement analysis.  
+- **Sentiment Analysis Tool** – NLP system analyzing customer feedback from social media to extract trends and insights.  
+- **Handwritten Digit Recognition** – CNN-based model achieving high accuracy on MNIST dataset.  
+- **Autonomous Drone Navigation** – Reinforcement learning approach for obstacle avoidance in simulated environments.  
+- **Stock Price Prediction** – LSTM-based model for time series forecasting of financial data.  
+- **AI Art Generation** – GAN-based system generating original artistic images from text prompts.  
 
 ---
 
-## 🛠️ Languages, Tools & Technologies
+## Languages, Tools & Technologies
 
 ### Programming Languages
 <p>
@@ -72,7 +88,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayayasminebelloum&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top languages"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=ayayasminebelloum&show_icons=true&locale=en&theme=algolia" alt="GitHub stats"/></p>
