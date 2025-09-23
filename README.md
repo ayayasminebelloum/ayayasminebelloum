@@ -25,7 +25,7 @@
 
 ## Featured Projects
 - **AI-Powered Product Recommendation System** – Designed hybrid recommender models (content-based, collaborative, popularity) on 14M+ user interactions, improving engagement and conversions.  
-- **ArtifAI Chatbot** – Built a GPT-2 based educational chatbot simulating conversations with 50 famous painters using FAISS + embeddings in a RAG pipeline.  
+- **ArtAI Chatbot** – Built a GPT-2 based educational chatbot simulating conversations with 50 famous painters using FAISS + embeddings in a RAG pipeline.  
 - **AI-Driven Event Management Optimization** – Used ML and RL to optimize event recommendations, resource allocation, and audience engagement.  
 - **Banking App MVP** – Developed a cloud-native app with secure authentication, transaction management, and CI/CD pipelines.  
 - **Real-Time Gaze Tracking** – Computer vision system mapping user gaze into heatmaps for advertisement analysis.  
