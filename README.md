@@ -87,10 +87,16 @@
 </p>
 
 ---
+## GitHub Stats
+![Visitor Count](https://komarev.com/ghpvc/?username=ayayasminebelloum&label=Profile%20views&color=0e75b6&style=flat)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayayasminebelloum&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayayasminebelloum&show_icons=true&locale=en&theme=algolia" alt="GitHub stats"/>
+</p>
 
 ## GitHub Stats
 <div align="center">
-![Visitor Count](https://komarev.com/ghpvc/?username=ayayasminebelloum&label=Profile%20views&color=0e75b6&style=flat)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayayasminebelloum&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top languages"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=ayayasminebelloum&show_icons=true&locale=en&theme=algolia" alt="GitHub stats"/></p>
 </div>
