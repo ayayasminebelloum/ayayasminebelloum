@@ -90,6 +90,10 @@
 
 ## GitHub Stats
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayayasminebelloum&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top languages"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=ayayasminebelloum&show_icons=true&locale=en&theme=algolia" alt="GitHub stats"/></p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayayasminebelloum&layout=compact&theme=algolia&count_private=true" alt="Top languages"/>
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=ayayasminebelloum&show_icons=true&locale=en&theme=algolia&count_private=true" alt="GitHub stats"/>
+</p>
 </div>
